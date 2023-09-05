@@ -1,5 +1,5 @@
 # CS410 MP1 -- Getting Familiar with Text
-Due Sept 4, 2022:
+Due Sept 10, 2022:
 
 For students who just added the class, **NO LATE PENALTY** will be applied to submissions before Sept 11
 
